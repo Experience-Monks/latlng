@@ -1,3 +1,5 @@
+/** @module latlng **/
+
 function e( value ) {
 
 	return value !== undefined;
